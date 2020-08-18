@@ -6,7 +6,7 @@ Esta aplicación debe ser capaz de agregar TODOs y determinar la cantidad de tar
 ## Instrucciones
 
 Dentro de [index.html](/index.html), encontraras algun HTML inicial. No se necesita modificar este archivo.
-Abre este archivo en tu computadora usando cualquier navegador para correr este TP. Asegurate de que [script.js](/script.js) y [styles.css](/styles.css) esten en la misma carpeta. Con el archivo abierto en tu navegador, deberías de ver un boton `Nueva Tarea`, el cual levanta un `alert` cuando des click. TU objetivo será hacer que este boton cree una nueva tarea.
+Abre este archivo en tu computadora usando cualquier navegador para correr este TP. Asegurate de que [script.js](/script.js) y [styles.css](/styles.css) esten en la misma carpeta. Con el archivo abierto en tu navegador, deberías de ver un boton `Add TODO`, el cual levanta un `alert` cuando des click. TU objetivo será hacer que este boton cree una nueva tarea.
 
 Dentro de [styles.css](/styles.css), encontrarás algun codigo css para tu conveniencia. No tienes necesidad de editar este archivo, pero puedes hacerlo si lo deseas.
 
