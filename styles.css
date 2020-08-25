@@ -64,3 +64,17 @@ ul {
 .todo-container:first-of-type {
   border-top: 1px solid #333;
 }
+
+.text-input {
+  max-width: 20vw;
+  margin: 20px;
+}
+
+.todo-text {
+  overflow-wrap: break-word;
+  max-width: 90%;
+}
+
+.checked-text {
+  text-decoration: line-through;
+}
